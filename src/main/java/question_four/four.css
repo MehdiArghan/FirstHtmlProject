@@ -1,0 +1,19 @@
+body {
+    background-image: linear-gradient(to right, rgba(0, 0, 190, 0.75), darkblue);
+}
+
+div {
+    background-color: powderblue;
+    padding-left: 200px;
+    margin-top: 190px;
+    margin-left: 400px;
+    margin-right: 370px;
+    border-radius: 10px;
+}
+
+button {
+    color: aliceblue;
+    background-color: blue;
+    width: 175px;
+    border-color: blue;
+}
