@@ -1,0 +1,17 @@
+.email, .name {
+    margin-left: 14px;
+}
+
+button {
+    margin-left: 60px;
+}
+
+.one {
+    display: flex
+}
+.two{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 150px;
+}
