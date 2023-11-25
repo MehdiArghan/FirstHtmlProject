@@ -1,0 +1,11 @@
+table,tr,td,th{
+    border: 1px solid black;
+}
+
+table{
+    margin: auto;
+}
+
+body{
+    font-size: 50px;
+}
