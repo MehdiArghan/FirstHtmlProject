@@ -1,0 +1,16 @@
+table,th,td{
+    border: 1px solid;
+    border-collapse: collapse;
+    text-align: left
+}
+tr:hover{
+    background-color: tomato;
+}
+.row_one{
+    background-color:black;
+    color: aliceblue;
+}
+th,td{
+    padding-top: 7px;
+    padding-bottom: 10px;
+}
