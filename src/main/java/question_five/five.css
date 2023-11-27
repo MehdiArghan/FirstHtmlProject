@@ -1,10 +1,10 @@
-table,th,td{
+table,th,td {
     border: 1px solid;
     border-collapse: collapse;
-    text-align: left
+    text-align: center;
 }
-tr:hover{
-    background-color: tomato;
+tr:nth-child(even){
+    background-color: darkcyan;
 }
 .row_one{
     background-color:black;
@@ -13,4 +13,7 @@ tr:hover{
 th,td{
     padding-top: 7px;
     padding-bottom: 10px;
+}
+div{
+    overflow:auto;
 }
