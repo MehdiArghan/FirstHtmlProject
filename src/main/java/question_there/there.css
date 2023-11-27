@@ -1,17 +1,23 @@
 .email, .name {
-    margin-left: 14px;
+    margin-left: 30px;
 }
 
 button {
-    margin-left: 60px;
+    margin-left: 77px;
 }
 
 .one {
-    display: flex
+   display: flex;
+   margin-left: 17px;
 }
-.two{
-    display: flex;
-    align-items: center;
+
+.two {
+
     justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+    width: 330px;
     margin-top: 150px;
+    margin-left: 500px;
+    background-color: aliceblue;
 }
